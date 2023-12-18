@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @C4p3tt0
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning UE5
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 C4p3tt0/C4p3tt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
